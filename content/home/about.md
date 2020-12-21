@@ -1,7 +1,7 @@
 ---
 widget: about
 widget_id: sss
-headless: false
+headless: true
 weight: 20
 title: sss
 active: ture
