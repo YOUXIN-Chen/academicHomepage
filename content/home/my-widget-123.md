@@ -3,8 +3,8 @@ widget: about
 widget_id: my-widget-123
 headless: true
 weight: 10
-title: "111"
-subtitle: "111"
+title: "1"
+subtitle: "1"
 active: true
 design:
   columns: "1"
